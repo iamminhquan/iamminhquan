@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bui Minh Quan</h1>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
